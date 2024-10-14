@@ -1,2 +1,2 @@
 # Get Data from Fetch API with Table Interface
-Get data from fetch api
+Menampilkan data dari fetch api dengan tampilan dalam bentuk tabel
